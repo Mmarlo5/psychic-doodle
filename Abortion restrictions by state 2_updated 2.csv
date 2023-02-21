@@ -1,0 +1,53 @@
+STATE,MUST BE PERFORMED BY A LICENSED PHYSICIAN,MUST BE PERFORMED IN A HOSPITAL IF AT:,SECOND PHYSICIAN MUST PARTICIPATE IF AT:,PROHIBITED EXCEPT IN CASES OF LIFE OR HEALTH ENDANGERMENT IF AT:,"""PARTIAL-BIRTH"" ABORTION BANNED 0=no restrictions 1= restrictions 2=post vib 3=law not in effect",PUBLIC FUNDING OF ABORTION,,PRIVATE INSURANCE COVERAGE LIMITED
+AL,X,Viability,Viability,0 weeks,3,,X,
+AK,X,,,,3,X,,
+AZ,X,Viability,Viability,15 weeks,1,,ϴ,X
+AR,X,,Viability,0 weeks‡,1,,X,
+CA,,,,Viability,0,X,,
+CO,,,,,0,,X,
+CT,,Viability,,Viability,0,X,,
+DE,,,,ViabilityΩ,0,,X,
+DC,,,,,0,,X,
+FL,X,Viability,15 weeks,24 weeks,3,,X,
+GA,X,,,6 weeks*,2,,X,
+HI,,,,Viability,0,X,,
+ID,X,Viability,3rd trimester,0 weeks†,3,,X,X
+IL,Xξ,,,Viability,0,X,,
+IN,X,20 weeks,20 weeks,22 weeks*,1,,X*,X
+IA,X,,,22 weeks*,3,,X,
+KS,X,,Viability,22 weeks*,1,,X,X
+KY,X,2nd trimester,,0 weeks‡,3,,X,X
+LA,X,,Viability,"0 weeks‡,Ω",1,,X,
+ME,,,,Viability,0,X,,
+MD,,,,ViabilityΩ,0,X,,
+MA,,,,24 weeksΩ,0,X,,
+MI,X,,,Viability‡,1,,X,X
+MN,,,20 weeks,Viability,0,X,,
+MS,XФ,,,0 weeks†,1,,XΩ,
+MO,X,Viability,Viability,"0 weeks*,‡",1,,X,X
+MT,,,Viability,Viability*,2,X,,
+NE,X,,,22 weeks*,3,,X,X
+NV,X,24 weeks,,24 weeks,0,,X,
+NH,,,,,1,,X,
+NJ,,14 weeks,,,3,X,,
+NM,Xξ,,,,2,X,,
+NY,,,,ViabilityΩ,0,X,,
+NC,X,20 weeks,,20 weeks*,0,,X,
+ND,X,,,"22 weeks*,ß",1,,X,X
+OH,X,20 weeks,20 weeks,22 weeks*,1,,X,
+OK,X,2nd trimester,Viability,0 weeks‡,1,,X,X
+OR,,,,,0,X,,
+PA,X,Viability,Viability,24 weeks*,0,,X,
+RI,Xξ,,,Viability,3,,X,
+SC,X,3rd trimester,3rd trimester,22 weeks*,1,,X,
+SD,X,24 weeks,,0 weeks‡,1,,Life Only,
+TN,X,Viability,Viability,0 weeks*,1,,X,
+TX,X,,,0 weeks‡*,1,,X,X
+UT,X,,,"18 weeks‡,†,Ω",1,,X*,X
+VT,,,,,0,X,,
+VA,,2nd trimester,Viability,3rd trimester,1,,XΩ,
+WA,,,,Viability,0,X,,
+WV,,,,"0 weeks*,†,Ω",3,,"X* ,Ω",
+WI,X,Viability,,"22 weeks*,ß",3,,X*,
+WY,X,,,Viability,0,,X,
+TOTAL,32,19,17,43,21,16,33+DC,12
